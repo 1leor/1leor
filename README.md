@@ -1,6 +1,3 @@
-# Leo Rodrigues
-
-
 ## National Digital Twin Programme
 
 ### Platform & Governance
