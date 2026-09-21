@@ -1,6 +1,7 @@
 ## National Digital Twin Programme
 
 ### Platform & Governance
+<img width="1264" height="843" alt="Gemini_Generated_Image_65hlct65hlct65hl" src="https://github.com/user-attachments/assets/e8c70b22-0a27-4314-b98a-dedf74927382" />
 
 - [ndtp-ai-ontology-extension](https://github.com/National-Digital-Twin)  
   AI-assisted ontology generation and extension tooling for semantic data models and digital twin ecosystems.
